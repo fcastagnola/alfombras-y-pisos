@@ -1,0 +1,160 @@
+/*.btnhere1
+{
+    padding: 5px 15px;
+    border-radius: 5px;
+    color:#fff;
+    text-decoration: none;
+    transition: 0.5s all ease;
+    background: #f85032; /* Old browsers */
+/*    background: -moz-linear-gradient(top, #f85032 0%, #f16f5c 50%, #f6290c 51%, #f02f17 71%, #e73827 100%); /* FF3.6-15 */
+/*    background: -webkit-linear-gradient(top, #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* Chrome10-25,Safari5.1-6 */
+/*    background: linear-gradient(to bottom, #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+/*    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827',GradientType=0 ); /* IE6-9 */
+/*}
+.btnhere1:hover{
+    background: #e2e2e2; /* Old browsers */
+/*    background: -moz-linear-gradient(top, #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* FF3.6-15 */
+/*    background: -webkit-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Chrome10-25,Safari5.1-6 */
+/*    background: linear-gradient(to bottom, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+/*    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+/*    color:#c20017;
+    text-decoration: none;
+}*/
+.contact-f0rm1
+{
+    position: fixed;
+    width: 320px;
+    right: 0px;
+    bottom: -355px;
+    /*bottom: 0;*/
+    z-index: 10000;
+    padding: 0;
+    transition: 1s all ease;
+}
+.contact-f0rm1:hover
+{
+    bottom: 0;
+}
+.box-rela1
+{
+    position: relative;
+    left: -255px;
+    top: 0px;
+}
+.contact-form1{
+    background: #fff;
+    -webkit-box-shadow: 8px 9px 14px -3px rgba(0,0,0,0.28);
+    -moz-box-shadow: 8px 9px 14px -3px rgba(0,0,0,0.28);
+    box-shadow: 8px 9px 14px -3px rgba(0,0,0,0.28);
+    border-radius:15px;
+    box-sizing: border-box;
+}
+
+.title-form1
+{
+    padding-bottom: 5px;
+    text-align: center;
+    background: blue;
+    width: 100%;
+    float: left;
+    border: 1px solid blue;
+}
+
+.title-form1 h2
+{
+    padding: 5px 0 0 5px;
+    color:gray;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.f0rm1{
+    padding: 25px;
+    /*background: #fff;*/
+    background-image: url(images/new-fondo.jpg);
+    border: 1px solid transparent;
+    border-radius: 0px 0px 15px 15px;
+    box-sizing: border-box;
+    clear: both;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom: 1px solid #aaa;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+.ctvert1{
+    cursor: pointer;
+    position: absolute;
+    left: 0px;
+    top: -55px;
+    width: 322px;
+    background: blue;
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 18px;
+    padding: 8px 7px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    /*background: rgba(0,0,255,1);
+    background: -moz-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 49%, rgba(246,41,12,1) 52%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(248,80,50,1)), color-stop(49%, rgba(241,111,92,1)), color-stop(52%, rgba(246,41,12,1)), color-stop(71%, rgba(240,47,23,1)), color-stop(100%, rgba(231,56,39,1)));
+    background: -webkit-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 49%, rgba(246,41,12,1) 52%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);
+    background: -o-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 49%, rgba(246,41,12,1) 52%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);
+    background: -ms-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 49%, rgba(246,41,12,1) 52%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);
+    background: linear-gradient(to bottom, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 49%, rgba(246,41,12,1) 52%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);*/
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='blue', endColorstr='blue', GradientType=0 );
+    transition: 1s all ease;
+}
+.ctvert1:hover{
+        /*background: rgba(231,56,39,1);
+        background: -moz-linear-gradient(top, rgba(231,56,39,1) 0%, rgba(240,47,23,1) 29%, rgba(246,41,12,1) 48%, rgba(241,111,92,1) 51%, rgba(248,80,50,1) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(231,56,39,1)), color-stop(29%, rgba(240,47,23,1)), color-stop(48%, rgba(246,41,12,1)), color-stop(51%, rgba(241,111,92,1)), color-stop(100%, rgba(248,80,50,1)));
+        background: -webkit-linear-gradient(top, rgba(231,56,39,1) 0%, rgba(240,47,23,1) 29%, rgba(246,41,12,1) 48%, rgba(241,111,92,1) 51%, rgba(248,80,50,1) 100%);
+        background: -o-linear-gradient(top, rgba(231,56,39,1) 0%, rgba(240,47,23,1) 29%, rgba(246,41,12,1) 48%, rgba(241,111,92,1) 51%, rgba(248,80,50,1) 100%);
+        background: -ms-linear-gradient(top, rgba(231,56,39,1) 0%, rgba(240,47,23,1) 29%, rgba(246,41,12,1) 48%, rgba(241,111,92,1) 51%, rgba(248,80,50,1) 100%);
+        background: linear-gradient(to bottom, rgba(231,56,39,1) 0%, rgba(240,47,23,1) 29%, rgba(246,41,12,1) 48%, rgba(241,111,92,1) 51%, rgba(248,80,50,1) 100%);*/
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='blue', endColorstr='blue', GradientType=0 );
+}
+
+.ctvert1 h3{
+        margin-top: 10px;
+        color: gray;
+}
+
+@media (min-width: 992px)
+{
+    .modal-dialog1 
+    {
+        width: 600px;
+        margin: 60px auto;
+    }
+}
+@media (min-width: 768px)
+{
+    .modal-dialog1 
+    {
+    width: 500px;
+    margin: 60px auto;
+    }
+}
+@media (max-width: 480px){
+        .modal-dialog1 {
+            margin: 100px auto;
+        }
+        .contact-f0rm1{
+                bottom:0px;
+        }
+        .f0rm1{
+                padding: 5px 15px 15px 15px;
+        }
+        .form-group1 {
+            margin-bottom: 5px;
+        }
+        .form-control1 {
+            height: 28px;
+        }
+        .title-form1 h2 {
+            font-size: 16px;
+            margin: 10px 10px 5px;
+        }
+}
